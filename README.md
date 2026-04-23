@@ -12,7 +12,7 @@ Buscando aprendizado em back-end.
  
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/3b9a59e5-705e-406e-b6ea-b4af8e1a286f" />
 
 <h3 align="left">Connect with me!</h3>
 
