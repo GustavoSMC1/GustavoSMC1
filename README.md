@@ -5,8 +5,9 @@
 </div>
 
 #
-
-Aluno na Centro Universitário da Fundação Educacional Guaxupé - UnifegCiências da Computação 3/8 🖥️ Buscando aprendizado em back end , focado em Java.
+Olá eu sou o Gustavo , tenho 22 anos e sou de Juruaia - MG
+Aluno na Centro Universitário da Fundação Educacional Guaxupé - UnifegCiências da Computação 3/8 🖥️
+Buscando aprendizado em back-end.
  
 #
 
