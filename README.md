@@ -78,14 +78,14 @@ Buscando aprendizado em back-end.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=GustavoSMC1&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=GustavoSMC1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
