@@ -25,11 +25,11 @@ Buscando aprendizado em back-end.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C++"
+    title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" 
 />
 <img 
     align="left" 
